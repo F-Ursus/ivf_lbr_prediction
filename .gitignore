@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (sensitive patient data)
+data/*.csv
+data/*.xlsx
+data/LBR_test.csv
+data/LBR_train.csv
+
+# Keep metadata files
+!data/kfold_ids.json
+!data/df_columns.json
+
+# Results - generated files
+results/*/studies/*.pickle
+results/*/studies/*.pkl
+results/*/*.xlsx
+results/*/*.png
+results/saved_studies/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+old_env_packages.txt
+new_env_packages.txt
+.env
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
