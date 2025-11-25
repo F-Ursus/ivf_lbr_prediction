@@ -190,11 +190,20 @@ The code expects the following files in the `data/` directory:
 
 
 ## Citation
+This code accompanies the paper by Alson, S., Björnsson, O., et al.
 
 If you use this code, please cite:
 
 ```
 [Citation will be added upon publication]
+```
+
+**Software archive:**
+
+```
+Björnsson, O., & Alson, S. (2024). ivf_lbr_prediction: Machine Learning Prediction 
+of Live Birth After IVF Using Adenomyosis Features (v1.0.0). Zenodo. 
+https://doi.org/10.5281/zenodo.XXXXXXX
 ```
 
 ## License

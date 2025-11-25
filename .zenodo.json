@@ -1,0 +1,24 @@
+{
+  "title": "ivf_lbr_prediction: Machine Learning Prediction of Live Birth After IVF Using Adenomyosis Features",
+  "description": "XGBoost-based machine learning models for predicting live birth rates following in vitro fertilization (IVF) treatment, incorporating ultrasound features of adenomyosis based on the Morphological Uterus Sonographic Assessment (MUSA) criteria. This repository contains code for hyperparameter optimization using Optuna, cross-validation, model evaluation, and feature importance analysis using SHAP values.",
+  "creators": [
+    {
+      "name": "Björnsson, Ola",
+      "affiliation": "Department of Energy Sciences, Faculty of Engineering, Lund University, Lund, Sweden",
+      "orcid": "0000-0002-3514-0033"
+    },
+    {
+      "name": "Alson, Sara",
+      "affiliation": "Obstetric, Gynecological and Prenatal Ultrasound research, Department of Clinical Sciences, Malmö, Lund University, Sweden",
+      "orcid": "0000-0003-2885-7818"
+    }
+  ],
+  "license": "MIT",
+   "keywords": [
+    "IVF",
+    "machine learning",
+    "live birth prediction",
+    "adenomyosis"
+  ],
+  "upload_type": "software"
+}
