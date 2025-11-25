@@ -1,5 +1,7 @@
 # Machine Learning Prediction of Live Birth After IVF Using Adenomyosis Features
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17715463.svg)](https://doi.org/10.5281/zenodo.17715463)
+
 This repository contains the code for the paper: **"Machine learning prediction of live birth after IVF using the Morphological Uterus Sonographic Assessment group features of adenomyosis"**
 
 ## Overview
@@ -203,7 +205,7 @@ If you use this code, please cite:
 ```
 Björnsson, O., & Alson, S. (2024). ivf_lbr_prediction: Machine Learning Prediction 
 of Live Birth After IVF Using Adenomyosis Features (v1.0.0). Zenodo. 
-https://doi.org/10.5281/zenodo.XXXXXXX
+https://doi.org/10.5281/zenodo.17715463
 ```
 
 ## License
